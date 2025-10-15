@@ -25,7 +25,7 @@
             {
                 decimal NetSalary = (item.Wage * (decimal)item.LoggedHours) - (item.Wage * (decimal)(item.LoggedHours * Employee.TAX));
                 Console.WriteLine($"Employee {item.Fname} : Net Salary is {NetSalary}");
-                Console.WriteLine();
+                
             }
         }
     }
