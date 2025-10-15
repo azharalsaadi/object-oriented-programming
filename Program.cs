@@ -1,4 +1,6 @@
-﻿namespace object_oriented_programming
+﻿
+using object_oriented_programming.Models;
+namespace object_oriented_programming
 {
     internal class Program
     {

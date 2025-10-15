@@ -17,4 +17,5 @@ namespace object_oriented_programming.Models
         public double LoggedHours;
 
     }
+
 }
